@@ -6,7 +6,7 @@ const fs = require("fs");
 ////////////////////[Configuration]\\\\\\\\\\\\\\\\\\\\
 
 let access_to_bot = [
-  '466891786980425749'  // Ton ID Discord
+  ''  // Ton ID Discord
 ];
 
 let token = "";
